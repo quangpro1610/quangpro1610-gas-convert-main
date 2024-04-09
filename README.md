@@ -1,4 +1,4 @@
 ## Installation
 ```bash
-npm ftm-gas-convert
+npm quangpro1610-gas-convert
 ```
